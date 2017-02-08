@@ -33,13 +33,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>YOUR BUNDLE ID (Take it from your Xcode Project)</string>
+                <string>com.yonyou.uap.mobile</string>
                 <key>bundle-version</key>
                 <string>1.2.3 Your app version</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>The Title To Present To The User installing the app</string>
+                <string>国网今来</string>
             </dict>
         </dict>
     </array>
