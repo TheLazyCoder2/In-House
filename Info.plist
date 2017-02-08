@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://oc59npuka.bkt.clouddn.com/iOS_2.0.2_8.ipa</string>
+                    <string>http://oc59npuka.bkt.clouddn.com/iOS_ceshi_2.0.2_1.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>THE URL FOR INSTALLATION @2x ICON: ex: http://go.com/Icon@2x.png</string>
+                    <string>https://mmbiz.qlogo.cn/mmbiz_png/ia8eNvbn7YibLFxoicVHyHoURAuUpcrS37BNCLk5tq45S3PKzqR0so9mQicl7EBmOktyQVLOcIVicy2uRb9lUDQuAag/0?wx_fmt=png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>THE URL FOR INSTALLATION ICON: ex: http://go.com/Icon.png</string>
+                    <string>https://mmbiz.qlogo.cn/mmbiz_png/ia8eNvbn7YibLFxoicVHyHoURAuUpcrS37BNCLk5tq45S3PKzqR0so9mQicl7EBmOktyQVLOcIVicy2uRb9lUDQuAag/0?wx_fmt=png</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -35,11 +35,11 @@
                 <key>bundle-identifier</key>
                 <string>com.yonyou.uap.mobile</string>
                 <key>bundle-version</key>
-                <string>1.2.3 Your app version</string>
+                <string>2.0.2</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>国网今来</string>
+                <string>GWJL</string>
             </dict>
         </dict>
     </array>
