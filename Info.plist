@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://app.gttxkjgs.com/YonyouIM.ipa</string>
+                    <string>IPA下载链接</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://mmbiz.qlogo.cn/mmbiz_png/ia8eNvbn7YibLFxoicVHyHoURAuUpcrS37BNCLk5tq45S3PKzqR0so9mQicl7EBmOktyQVLOcIVicy2uRb9lUDQuAag/0?wx_fmt=png</string>
+                    <string>512 x 512 像素的 PNG 图像，表示 iTunes 中相应的应用</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,19 +27,19 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://mmbiz.qlogo.cn/mmbiz_png/ia8eNvbn7YibLFxoicVHyHoURAuUpcrS37BNCLk5tq45S3PKzqR0so9mQicl7EBmOktyQVLOcIVicy2uRb9lUDQuAag/0?wx_fmt=png</string>
+                    <string>57 x 57 像素的 PNG 图像，在下载和安装过程中显示</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.yonyou.uap.mobile</string>
+                <string>应用的包标识符</string>
                 <key>bundle-version</key>
-                <string>2.0.2</string>
+                <string>版本号</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>GWJL</string>
+                <string>APP名称</string>
             </dict>
         </dict>
     </array>
