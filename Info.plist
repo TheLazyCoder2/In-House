@@ -1,47 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>items</key>
-    <array>
-        <dict>
-            <key>assets</key>
-            <array>
-                <dict>
-                    <key>kind</key>
-                    <string>software-package</string>
-                    <key>url</key>
-                    <string>IPA下载链接</string>
-                </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>full-size-image</string>
-                    <key>needs-shine</key>
-                    <true/>
-                    <key>url</key>
-                    <string>512 x 512 像素的 PNG 图像，表示 iTunes 中相应的应用</string>
-                </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>display-image</string>
-                    <key>needs-shine</key>
-                    <true/>
-                    <key>url</key>
-                    <string>57 x 57 像素的 PNG 图像，在下载和安装过程中显示</string>
-                </dict>
-            </array>
-            <key>metadata</key>
-            <dict>
-                <key>bundle-identifier</key>
-                <string>应用的包标识符</string>
-                <key>bundle-version</key>
-                <string>版本号</string>
-                <key>kind</key>
-                <string>software</string>
-                <key>title</key>
-                <string>APP名称</string>
-            </dict>
-        </dict>
-    </array>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>http://d1.themebest.cn/e/niubibi/nengliang1_1.ipa</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.aoyiyun.nq1</string>
+<key>bundle-version</key>
+<string>6.3.22</string>
+<key>kind</key>
+<string>software</string>
+<key>subtitle</key>
+<string>QQ</string>
+<key>title</key>
+<string>QQ</string>
+</dict>
+</dict>
+</array>
 </dict>
 </plist>
